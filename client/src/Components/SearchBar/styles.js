@@ -4,7 +4,6 @@ export const SearchBox = styled(Box)((theme)=>({
     paddingTop:'2rem',
     display:'flex',
     justifyContent:'center',
-    alignContent:'center',
 
 }))
 export const Container = styled(Box)((theme)=>({

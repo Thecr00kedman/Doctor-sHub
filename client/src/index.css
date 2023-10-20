@@ -12,3 +12,16 @@
  border:'none';
  border-bottom: 2px solid red;
  }
+.hamburger{
+  padding: 0.5rem;
+  
+}
+.hamburger:hover{
+  background-color: orange;
+}
+.closemenu{
+  padding: 0.5rem;
+}
+.closemenu:hover{
+  background-color: orange;
+}
