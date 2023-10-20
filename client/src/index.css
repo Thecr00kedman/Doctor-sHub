@@ -1,0 +1,14 @@
+:root {
+  font-family:"proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif"
+ }
+
+ *{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+
+ }
+ .active-link{
+ border:'none';
+ border-bottom: 2px solid red;
+ }
